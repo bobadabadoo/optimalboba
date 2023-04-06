@@ -2,7 +2,7 @@
   "name": "optimalboba",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://bobadabadoo.github.io/optimalboba",
+  "homepage": "https://optimalboba.com",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
