@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/optimalboba/static/css/main.05fbb0ed.css",
-    "main.js": "/optimalboba/static/js/main.07deaaf0.js",
-    "static/js/787.83ba7e2b.chunk.js": "/optimalboba/static/js/787.83ba7e2b.chunk.js",
-    "index.html": "/optimalboba/index.html",
-    "main.05fbb0ed.css.map": "/optimalboba/static/css/main.05fbb0ed.css.map",
-    "main.07deaaf0.js.map": "/optimalboba/static/js/main.07deaaf0.js.map",
-    "787.83ba7e2b.chunk.js.map": "/optimalboba/static/js/787.83ba7e2b.chunk.js.map"
+    "main.css": "/static/css/main.05fbb0ed.css",
+    "main.js": "/static/js/main.15085473.js",
+    "static/js/787.83ba7e2b.chunk.js": "/static/js/787.83ba7e2b.chunk.js",
+    "index.html": "/index.html",
+    "main.05fbb0ed.css.map": "/static/css/main.05fbb0ed.css.map",
+    "main.15085473.js.map": "/static/js/main.15085473.js.map",
+    "787.83ba7e2b.chunk.js.map": "/static/js/787.83ba7e2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05fbb0ed.css",
-    "static/js/main.07deaaf0.js"
+    "static/js/main.15085473.js"
   ]
 }
